@@ -1,4 +1,4 @@
-package com.carledwinti.springbatchprocessing;
+package com.carledwinti;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
